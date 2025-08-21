@@ -26,6 +26,6 @@ ibmcloud ce app get --name frontend -q
 
 ##################::::microservices URLs deployed::
 
-https://prodlist.1zccbasszzew.us-south.codeengine.appdomain.cloud 
-https://dealerdetails.1zccbasszzew.us-south.codeengine.appdomain.cloud
-https://frontend.1zccbasszzew.us-south.codeengine.appdomain.cloud
+https://prodlist.1zcmazja3hvm.us-south.codeengine.appdomain.cloud
+https://dealerdetails.1zcmazja3hvm.us-south.codeengine.appdomain.cloud
+https://frontend.1zcmazja3hvm.us-south.codeengine.appdomain.cloud
