@@ -1,7 +1,7 @@
 git submodule add git@github.com:shayleydon/dealer_evaluation_backend.git dealer_evaluation_backend
 git submodule add git@github.com:shayleydon/dealer_evaluation_frontend.git dealer_evaluation_frontend
 
-
+git clone --recurse-submodules -j8 git@github.com:shayleydon/ibm-full-stack-pro-c11of15-apps-microservices-serverless.git
 
 Updating a Submodule in Git
 Last Updated : 24 May, 2024
