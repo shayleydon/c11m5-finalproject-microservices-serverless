@@ -1,0 +1,6 @@
+[submodule "dealer_evaluation_backend"]
+	path = dealer_evaluation_backend
+	url = git@github.com:shayleydon/dealer_evaluation_backend.git
+[submodule "dealer_evaluation_frontend"]
+	path = dealer_evaluation_frontend
+	url = git@github.com:shayleydon/dealer_evaluation_frontend.git
